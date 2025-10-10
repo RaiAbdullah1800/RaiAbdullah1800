@@ -91,7 +91,6 @@ A MERN-powered application that extracts and refines text from videos using rule
 
 🏆 **A+ Grade Final Year Project** — University of Gujrat
 
-[View Project →](https://github.com/)
 
 </td>
 <td width="50%">
@@ -118,7 +117,6 @@ Multi-tenant AI assistant for clinic bookings with speech recognition capabiliti
 
 **Tech:** Strapi CMS • FastAPI • React • Speech Recognition
 
-[View Project →](https://github.com/)
 
 </td>
 <td width="50%">
