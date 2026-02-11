@@ -1,189 +1,147 @@
-<div align="center">
+<div style="font-family:Segoe UI, sans-serif; background:linear-gradient(135deg,#0b0f19,#111827,#020617); padding:40px; border-radius:20px; color:#e5e7eb;">
 
-# 👋 Hey, I'm Rai Abdullah Nawaz
+<!-- HEADER -->
+<div style="text-align:center; padding:40px 20px; border-radius:20px; background:linear-gradient(135deg,#111827,#020617); box-shadow:0px 0px 60px rgba(56,189,248,0.15);">
 
-### Machine Learning Engineer • Full-Stack Developer • AI Problem Solver
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.raiabdullahnawaz.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-abdullah-nawaz-552329203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazabdullah18@gmail.com)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm the kind of developer who loves building things that ***actually think***.
-
-From deploying ML pipelines with **FastAPI + React**, to experimenting with **client-side ML (TensorFlow.js / ml5.js)** — I bring machine learning right into the hands of users.
-
-Currently working as a **Machine Learning Engineer @ SmartZoneLeaders**, where I design and deploy intelligent full-stack web apps that don't just look good… they ***learn***.
-
----
-
-## 🚀 What I Build
-
-```python
-skills = {
-    "🧠 AI/ML": [
-        "Real-world ML pipelines (Python, FastAPI, scikit-learn, OpenCV)",
-        "Generative AI & RAG systems (LangChain, Groq, Hugging Face)",
-        "On-device/browser ML (TensorFlow.js, ml5.js, Teachable Machine)"
-    ],
-    "⚙️ Full Stack": [
-        "Frontend: React.js, Zustand, Ant Design, Vite",
-        "Backend: FastAPI, Node.js, Express",
-        "Databases: MongoDB, MySQL",
-        "CI/CD: Render, Railway, AWS EC2, Netlify"
-    ],
-    "🌐 Product Dev": [
-        "Intelligent dashboards & analytics",
-        "Microservice architectures",
-        "Voice + Chat AI integrations"
-    ]
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ml5.js](https://img.shields.io/badge/ml5.js-1C1E26?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Teachable Machine](https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+<h1 style="font-size:42px; letter-spacing:1px; background:linear-gradient(90deg,#38bdf8,#6366f1,#22c55e); -webkit-background-clip:text; color:transparent;">
+Hi, I'm Abdullah Nawaz
+</h1>
 
 </div>
 
----
+<br/>
 
-## 🏗️ Featured Projects
+<!-- ABOUT -->
+<div style="padding:35px; border-radius:16px; background:linear-gradient(145deg,#020617,#0f172a); box-shadow:0 0 25px rgba(99,102,241,0.2);">
 
-<table>
-<tr>
-<td width="50%">
+<h2 style="color:#38bdf8;">About Me</h2>
 
-### 🔹 ReadMorama
-**Video Text Extraction Platform**
+<p style="line-height:1.7;">
+I'm a <b>Machine Learning Engineer</b> and <b>Full-Stack Developer</b> specializing in building <b>AI-powered web applications</b>. I combine cutting-edge machine learning expertise with modern web development to create intelligent, scalable solutions that make a difference.
+</p>
 
-A MERN-powered application that extracts and refines text from videos using rule-based preprocessing and ML-based postprocessing.
+<h3 style="color:#6366f1;">What I Do</h3>
 
-**Tech:** MERN Stack • OpenCV • OCR • ML
-
-🏆 **A+ Grade Final Year Project** — University of Gujrat
-
-
-</td>
-<td width="50%">
-
-### 🔹 SmartZoneLeaders ML Integration
-**Production AI Systems**
-
-Production-grade AI modules embedded in FastAPI + React systems for client-facing intelligence.
-
-**Features:**
-- Real-time ML predictions
-- Client-side ML (TensorFlow.js & ml5.js)
-- Scalable microservices
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 AI Agent SaaS
-**Voice-Reactive Assistant Platform** *(WIP)*
-
-Multi-tenant AI assistant for clinic bookings with speech recognition capabilities.
-
-**Tech:** Strapi CMS • FastAPI • React • Speech Recognition
-
-
-</td>
-<td width="50%">
-
-### 🔹 More Projects Coming Soon...
-**Always Building**
-
-Check out my repositories for more AI experiments, full-stack apps, and ML pipelines.
-
-🌟 Star repos you find interesting!
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiAbdullah1800&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
-
----
-
-## 🧪 Currently Exploring
-
-- 🔍 Retrieval-Augmented Generation (RAG) optimization
-- 🤖 LLM-driven browser applications
-- 🏥 AI SaaS for healthcare and education
-- 🎯 Advanced prompt engineering techniques
-
----
-
-## 💡 Fun Fact
-
-> *I believe a well-built API is poetry — clean, expressive, and slightly over-engineered (for love, not necessity).*
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-**Open for collaborations, freelance work, and interesting conversations about AI/ML!**
-
-📩 **Email:** [nawazabdullah18@gmail.com](mailto:nawazabdullah18@gmail.com)  
-🌐 **Portfolio:** [www.raiabdullahnawaz.online](https://www.raiabdullahnawaz.online)  
-💼 **LinkedIn:** [Rai Abdullah Nawaz](https://www.linkedin.com/in/rai-abdullah-nawaz-552329203/)
-
----
-
-⭐ ***If you like my work, drop a star on a repo.***  
-*That's the GitHub equivalent of saying "keep building, bro."*
+<p>
+AI/ML Development - Building intelligent systems with advanced ML models<br/>
+Full-Stack Development - Creating responsive, modern web applications<br/>
+System Architecture - Designing scalable, robust software solutions<br/>
+Product Innovation - Transforming ideas into reality with technology
+</p>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  
-### 🚀 "*Building the future, one algorithm at a time*" 🚀
+<!-- TECH STACK -->
+<div style="padding:35px; border-radius:16px; background:linear-gradient(135deg,#020617,#111827); box-shadow:0 0 30px rgba(34,197,94,0.15);">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+<h2 style="color:#22c55e;">Tech Stack</h2>
+
+<h3>Frontend Development</h3>
+<h3>AI & Machine Learning</h3>
+<h3>Backend & Databases</h3>
+<h3>Cloud & DevOps</h3>
+
+</div>
+
+<br/>
+
+<!-- FEATURED PROJECT -->
+<div style="padding:35px; border-radius:18px; background:linear-gradient(145deg,#0f172a,#020617); box-shadow:0 0 50px rgba(56,189,248,0.15);">
+
+<h2 style="background:linear-gradient(90deg,#38bdf8,#6366f1); -webkit-background-clip:text; color:transparent;">
+MindMeta - AI-Powered Cognitive Care Assistant
+</h2>
+
+<p>
+Healthcare platform featuring real-time voice conversations between patients and empathetic AI companions
+</p>
+
+<h3>Key Features:</h3>
+
+<p>
+Real-time AI voice conversations using Hume AI & OpenAI GPT<br/>
+Advanced speech processing with Deepgram SDK & Azure Cognitive Services<br/>
+Secure data management with PostgreSQL & Redis<br/>
+Real-time communication via WebSocket & Socket.IO
+</p>
+
+<h3>Tech Stack:</h3>
+
+<p>
+text text textFrontend: React.js, TypeScript, Material-UI, Vite<br/>
+Backend: FastAPI, Python, PostgreSQL, Redis<br/>
+AI/ML: Hume AI, OpenAI GPT, Deepgram SDK, Azure Speech<br/>
+Deployment: Docker, AWS S3, WebSocket
+</p>
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+<div style="padding:35px; border-radius:16px; background:linear-gradient(135deg,#020617,#111827); box-shadow:0 0 30px rgba(99,102,241,0.2);">
+
+<h2 style="color:#6366f1;">More Amazing Projects</h2>
+
+<p>
+AI Chatbots & Virtual Assistants<br/>
+Data Analytics & Visualization Platforms<br/>
+E-commerce Solutions<br/>
+Mobile-First Web Applications<br/>
+Authentication & Security Systems
+</p>
+
+<p>
+For complete project details, demos, and technical specifications, visit my portfolio's Projects Section
+</p>
+
+</div>
+
+<br/>
+
+<!-- STREAK STATS -->
+<div style="padding:35px; border-radius:16px; background:linear-gradient(145deg,#0f172a,#020617); box-shadow:0 0 30px rgba(34,197,94,0.2); text-align:center;">
+
+<h2 style="color:#22c55e;">Streak Stats</h2>
+
+<img src="https://streak-stats.demolab.com?user=RaiAbdullah1800&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+<div style="padding:35px; border-radius:16px; background:linear-gradient(135deg,#020617,#111827); box-shadow:0 0 30px rgba(56,189,248,0.2); text-align:center;">
+
+<h2 style="color:#38bdf8;">Connect With Me</h2>
+
+<p>Let's build something amazing together!</p>
+
+<div style="margin-top:20px;">
+
+<a href="https://www.raiabdullahnawaz.online/" style="text-decoration:none;">
+<span style="padding:10px 18px; margin:6px; display:inline-block; border-radius:10px; background:linear-gradient(90deg,#38bdf8,#6366f1); color:white; font-weight:bold;">Portfolio</span>
+</a>
+
+<a href="https://www.linkedin.com/in/rai-abdullah-nawaz-552329203/" style="text-decoration:none;">
+<span style="padding:10px 18px; margin:6px; display:inline-block; border-radius:10px; background:linear-gradient(90deg,#22c55e,#38bdf8); color:white; font-weight:bold;">LinkedIn</span>
+</a>
+
+<a href="mailto:nawazabdullah18@gmail.com" style="text-decoration:none;">
+<span style="padding:10px 18px; margin:6px; display:inline-block; border-radius:10px; background:linear-gradient(90deg,#6366f1,#ec4899); color:white; font-weight:bold;">Email</span>
+</a>
+
+</div>
+
+</div>
+
+<br/>
+
+<!-- LICENSE -->
+<div style="padding:25px; text-align:center; opacity:0.8;">
+<p>Copyright © Rai Abdullah Nawaz. All rights reserved.</p>
+</div>
 
 </div>
