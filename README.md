@@ -45,7 +45,7 @@ A healthcare platform featuring real-time voice conversations between patients a
 * **Prime Flow**
 * **AIOR (All In One Recruitement)**
 
-> For complete project details and technical specifications, visit my <a href="https://www.raiabdullahnawaz.online/">portfolio's Projects Section</a>.
+> For complete project details and technical specifications, visit my <a href="https://www.raiabdullahnawaz.online/projects">portfolio's Projects Section</a>.
 
 ---
 
