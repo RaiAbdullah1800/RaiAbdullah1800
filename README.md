@@ -1,5 +1,4 @@
-<!-- TOP BACKGROUND -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:020617&height=200&section=header&text=Hi,%20I'm%20Abdullah%20Nawaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D766A,50:9C7E65,100:AB9477&height=200&section=header&text=Hi,%20I'm%20Abdullah%20Nawaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ---
 
@@ -9,48 +8,44 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** specializing in
 
 ### What I Do
 
-AI/ML Development - Building intelligent systems with advanced ML models  
-Full-Stack Development - Creating responsive, modern web applications  
-System Architecture - Designing scalable, robust software solutions  
-Product Innovation - Transforming ideas into reality with technology  
+* **AI/ML Development** - Building intelligent systems with advanced ML models
+* **Full-Stack Development** - Creating responsive, modern web applications
+* **System Architecture** - Designing scalable, robust software solutions
+* **Product Innovation** - Transforming ideas into reality with technology
 
 ---
 
-## Tech Stack
+## Key Projects
 
-| Frontend Development | AI & Machine Learning | Backend & Databases | Cloud & DevOps |
-|---|---|---|---|
-|  |  |  |  |
+### MindMeta - AI-Powered Cognitive Care Assistant
 
----
-
-## MindMeta - AI-Powered Cognitive Care Assistant
-
-Healthcare platform featuring real-time voice conversations between patients and empathetic AI companions.
+A healthcare platform featuring real-time voice conversations between patients and empathetic AI companions.
 
 ### Key Features
 
-- Real-time AI voice conversations using Hume AI & OpenAI GPT
-- Advanced speech processing with Deepgram SDK & Azure Cognitive Services
-- Secure data management with PostgreSQL & Redis
-- Real-time communication via WebSocket & Socket.IO
+* **Real-time AI voice conversations** using Hume AI & OpenAI GPT
+* **Advanced speech processing** with Deepgram SDK & Azure Cognitive Services
+* **Secure data management** with PostgreSQL & Redis
+* **Real-time communication** via WebSocket & Socket.IO
 
 ### Tech Stack
 
-text text textFrontend: React.js, TypeScript, Material-UI, Vite  
-Backend: FastAPI, Python, PostgreSQL, Redis  
-AI/ML: Hume AI, OpenAI GPT, Deepgram SDK, Azure Speech  
-Deployment: Docker, AWS S3, WebSocket  
+* **Frontend:** React.js, TypeScript, Material-UI, Vite
+* **Backend:** FastAPI, Python, PostgreSQL, Redis
+* **AI/ML:** Hume AI, OpenAI GPT, Deepgram SDK, Azure Speech
+* **Deployment:** Docker, AWS S3, WebSocket
 
 ---
 
 ## More Amazing Projects
 
-- AI Chatbots & Virtual Assistants
-- Data Analytics & Visualization Platforms
-- E-commerce Solutions
-- Mobile-First Web Applications
-- Authentication & Security Systems
+* **AI Chatbots for parchem.com**
+* **uxpendit**
+* **friends Ledger**
+* **Prime Flow**
+* **AIOR (All In One Recruitement)**
+
+> For complete project details and technical specifications, visit my <a href="https://www.raiabdullahnawaz.online/">portfolio's Projects Section</a>.
 
 ---
 
@@ -65,14 +60,21 @@ Deployment: Docker, AWS S3, WebSocket
 ## Connect With Me
 
 <p align="center">
+Let's build something amazing together!
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge)](https://www.raiabdullahnawaz.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=for-the-badge)](https://www.linkedin.com/in/rai-abdullah-nawaz-552329203/)
-[![Email](https://img.shields.io/badge/Email-Contact-ec4899?style=for-the-badge)](mailto:nawazabdullah18@gmail.com)
+<p align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AB9477?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.raiabdullahnawaz.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9C7E65?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-abdullah-nawaz-552329203/)
+[![Email](https://img.shields.io/badge/Email-Contact-8D766A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazabdullah18@gmail.com)
+
+</p>
+
+<p align="center">
+Copyright © Rai Abdullah Nawaz. All rights reserved.
 </p>
 
 ---
 
-<!-- BOTTOM BACKGROUND -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0b0f19&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9477,50:9C7E65,100:8D766A&height=120&section=footer"/>
